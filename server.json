@@ -1,20 +1,36 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2023-12-15T13:04:46.238Z"
-        },
-        {
-            "id": 2,
-            "description": "Ifood",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 49,
-            "createdAt": "2023-12-15T12:04:46.238Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Teste descrição",
+      "type": "income",
+      "category": "Venda",
+      "price": 0,
+      "createdAt": "2023-12-15T13:04:46.238Z"
+    },
+    {
+      "description": "Desenvolvimento de Site",
+      "price": 10000,
+      "category": "Venda/Freela",
+      "type": "income",
+      "createdAt": "2023-12-16T16:45:49.654Z",
+      "id": 2
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 20000,
+      "category": "Venda/Freela",
+      "type": "income",
+      "createdAt": "2023-12-16T16:46:04.118Z",
+      "id": 3
+    },
+    {
+      "description": "Peças do Pc",
+      "price": 15000,
+      "category": "Setup",
+      "type": "outcome",
+      "createdAt": "2023-12-16T16:46:26.949Z",
+      "id": 4
+    }
+  ]
 }
