@@ -31,6 +31,14 @@
       "type": "outcome",
       "createdAt": "2023-12-16T16:46:26.949Z",
       "id": 4
+    },
+    {
+      "description": "aluguel",
+      "price": 1500,
+      "category": "Moradia",
+      "type": "outcome",
+      "createdAt": "2024-01-15T11:39:07.222Z",
+      "id": 5
     }
   ]
 }
